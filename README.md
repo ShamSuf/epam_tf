@@ -6,7 +6,7 @@ It provisions a VPC, NAT Gateway, Internet Gateway, Subnets, SecurityGroups, an 
 ├── provider.tf         # account info  \
 ├── main.tf             # lb and ec2    \
 ├── vpc.tf              # vpc, nat, sg  \
-├── terraform.tfstate
-├── terraform.tfstate.backup
-├── terraform.lock.hcl 
-└── README.md          # Project documentation
+├── terraform.tfstate                   \
+├── terraform.tfstate.backup            \
+├── terraform.lock.hcl                  \
+└── README.md          # Project documentation \
